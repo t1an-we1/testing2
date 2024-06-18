@@ -70,26 +70,34 @@
 
 <nav>
     <a href="#home">Home</a>
-    <a href="#about">About</a>
+    <a href="#workout">Workout</a>
+    <a href="#nutrition">Nutrition</a>
+    <a href="#mental health">Mental Health</a>
+    <a href="#yoga">Yoga</a>
+    <a href="#fitness challenges">Fitness Challenges</a>
     <a href="#blog">Blog</a>
-    <a href="#contact">Contact</a>
+    <a href="#shop">Shop</a>
+    <a href="#plans&pricing">Plans & Pricing</a>
+    <a href="#about us">About Us</a>
+
 </nav>
 
 <div class="container">
     <section class="blog-post">
-        <h2>10 Tips for a Healthy Lifestyle</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. Donec scelerisque sollicitudin enim eu venenatis.</p>
-        <p>Duis tincidunt laoreet ex, in pretium orci vestibulum eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis pharetra luctus lacus ut vestibulum.</p>
+        <h2>Burn Fat Program Start Now!!!</h2>
+        <p>Starting a fat-burning program involves a combination of dietary changes, physical activity, and lifestyle modifications.</p>
     </section>
     <section class="blog-post">
-        <h2>The Benefits of Regular Exercise</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. Donec scelerisque sollicitudin enim eu venenatis.</p>
-        <p>Duis tincidunt laoreet ex, in pretium orci vestibulum eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis pharetra luctus lacus ut vestibulum.</p>
+        <h2>Chest Training Program Start Now!!!</h2>
+        <p>Chest training focuses on developing the pectoral muscles, commonly known as the chest muscles. These muscles are crucial for various upper body movements and contribute significantly to overall upper body strength and aesthetics.</p>
     </section>
     <section class="blog-post">
-        <h2>Healthy Eating: A Beginner's Guide</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. Donec scelerisque sollicitudin enim eu venenatis.</p>
-        <p>Duis tincidunt laoreet ex, in pretium orci vestibulum eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis pharetra luctus lacus ut vestibulum.</p>
+        <h2>Arm Training Program Start Now!</h2>
+        <p>Arm training focuses on developing the muscles of the upper arms, primarily the biceps, triceps, and forearms. Well-rounded arm training includes a variety of exercises targeting these muscles from different angles and with different movements to ensure balanced growth and strength.</p>
+    </section>
+    <section class="blog-post">
+        <h2>Leg Training Program Start Now!</h2>
+        <p>Leg training focuses on developing the muscles of the lower body, which include the quadriceps, hamstrings, glutes, calves, and hip muscles. These muscles are crucial for daily activities, athletic performance, and overall lower body strength and stability.</p>
     </section>
 </div>
 
