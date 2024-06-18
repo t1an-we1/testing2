@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #4b2e2e;
+            background-color: #A04000;
         }
         header {
             background-color: black;
@@ -29,8 +29,8 @@
             text-align: center;
         }
         nav a:hover {
-            background-color: brown;
-            color: brown;
+            background-color: #999999;
+            color: grey;
         }
         .container {
             width: 80%;
